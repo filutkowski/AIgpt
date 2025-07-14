@@ -1,0 +1,36 @@
+# 📦 Node.js dependencies
+node_modules/
+
+# 🏗️ Build artifacts
+dist/
+build/
+out/
+
+# 💼 Dependency locks
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# 🌱 Enviro config
+.env
+.env.local
+.env.production
+.env.development
+
+# 🧪 Testing output
+coverage/
+
+# 💡 IDE / Editor stuff
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 🖼️ System artifacts
+.DS_Store
+Thumbs.db
+
+# 🚀 Logs & debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
